@@ -11,8 +11,33 @@
   
 
 # Format of README file
-* Team Name : [TEAM NAME]
-* Members Name : [Member 1] [Member 2] [Member 3] etc...
-* Description : [Description]
-* Please add Steps : How to Run the Program with Commands.
+* Team Name : Cyber Carange
+* Members Name : [Mohd Yasuir ] [Saim sheikh] [Sumedh dhoke] [Kunal Jiwtode]
 
+<hr>
+
+
+![Screenshot 2023-08-26 151534](https://github.com/mohdyasir5155/Hacknow-Hackathon-Submission-2023/assets/131906472/1bcaa7ff-4065-42db-92f3-908d892695fb)
+
+
+<h1 align=center>NFT-Found</h1>
+
+
+# NFT-Found
+
+Welcome to NFT-Found, the ultimate destination for immersing yourself in the revolutionary world of non-fungible tokens (NFTs) through our curated NFT Gallery. We are not just a gallery; we are a bridge between traditional artistry and the boundless possibilities of the digital age. Step into a realm where art meets technology, where ownership is redefined, and where creativity knows no bounds.
+
+
+# Hi, I'm Mohd Yasir Sheikh! 👋
+
+I am a student of B.Tech in Computer Science and Engineering at G.H. Raisoni College of Engineering (GHRCE) in Nagpur. With a keen interest in frontend development, I am specialized in HTML, CSS, and JavaScript
+
+## 🚀 About Me
+
+My passion for frontend development and enthusiasm for staying up-to-date with the latest industry trends make me a promising talent in the field of web development. With a strong foundation in coding languages and a knack for creating seamless user experiences, I am poised to make a significant impact in the industry.
+
+
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sheikh-35aab2274/)
